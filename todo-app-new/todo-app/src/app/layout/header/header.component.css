@@ -1,0 +1,26 @@
+.header {
+    overflow: hidden;
+    background-color: rgb(97, 55, 246);
+    padding: 15px 10px;
+}
+  
+.header a,span {
+    float: left;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 5px;
+    text-decoration: none;
+    font-size: 18px; 
+    line-height: 25px;
+    border-radius: 4px;
+}
+
+.header-right {
+    float: right;
+}
+
+.header .app-title {
+    font-size: 25px;
+    font-weight: bold;
+}
+  

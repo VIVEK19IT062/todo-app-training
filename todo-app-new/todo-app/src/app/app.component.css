@@ -1,0 +1,10 @@
+.container{
+    width: 40%;
+    min-width: 450px;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 60px;
+    padding: 30px 40px;
+}
